@@ -88,3 +88,50 @@ operator:
 
 </div>
 
+
+---
+
+<div align="center">
+
+## ⌜ ACTIVITY MONITOR ⌟
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d0618&color=B56AFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true&custom_title=SR.AV%20-%20CONTRIBUTION%20ACTIVITY" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+### `SYSTEM STATUS: ONLINE`
+
+**SR.AV // DIGITAL FOOTPRINT**
+
+<sub>「 The future is built, not predicted. 」</sub>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⌜ CLASSIFIED PROJECTS ⌟
+
+| PROJECT | STATUS |
+|:---:|:---:|
+| `PROJECT_01` | IN DEVELOPMENT |
+| `PROJECT_02` | COMING SOON |
+| `PROJECT_03` | UNKNOWN |
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ACCESS-RESTRICTED-8A2BE2?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+
+</div>
+
