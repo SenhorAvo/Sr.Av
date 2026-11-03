@@ -57,3 +57,21 @@ operator:
 
 </div>
 
+
+---
+
+<div align="center">
+
+## ⌜ TECHNOLOGIES & TOOLS ⌟
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,github,git,vscode,linux,robloxstudio&theme=dark" />
+
+<br><br>
+
+![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
