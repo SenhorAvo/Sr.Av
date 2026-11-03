@@ -210,3 +210,29 @@ operator:
 <sub>「 The future is built, not predicted. 」</sub>
 
 </div>
+
+<table>
+<tr>
+<td>
+
+```text
+....................../´¯/)
+....................,/¯../
+.................../..../
+............./´¯/'...'/´¯¯`·¸
+........../'/.../..../......./¨¯\
+........('(...´...´.... ¯~/'...') 
+.........\.................'...../
+..........''...\.......... _.·´
+............\..............(
+..............\.............\...
+```
+
+</td>
+<td align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=700&pause=300&color=00FF00&center=true&vCenter=true&width=350&lines=FUCK+YOU;FUCK+YOU;FUCK+YOU" />
+
+</td>
+</tr>
+</table>
