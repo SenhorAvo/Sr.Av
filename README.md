@@ -75,3 +75,16 @@ operator:
 
 </div>
 
+
+---
+
+<div align="center">
+
+## ⌜ SYSTEM STATISTICS ⌟
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=0d0618&title_color=B56AFF&text_color=D8C4F5&icon_color=9D4EDD&border_color=6A0DAD&hide_border=false" />
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=0d0618&title_color=B56AFF&text_color=D8C4F5&border_color=6A0DAD" />
+
+</div>
+
