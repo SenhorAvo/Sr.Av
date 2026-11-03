@@ -9,8 +9,11 @@
 
 `[ ACCESS GRANTED ]` ` [ PURPLE PROTOCOL ]` ` [ 2026 ]`
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=900&color=B56AFF&center=true&vCenter=true&width=650&lines=Hello%2C+World!;Initializing+Sr.Av.exe...;Welcome+to+my+digital+world.;System+online...;Building+the+future+with+code." />
+
 </div>
 
+---
 
 <div align="center">
 
@@ -24,23 +27,45 @@
 
 </div>
 
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=B56AFF&center=true&vCenter=true&width=600&lines=Initializing+Sr.Av+System...;Access+Granted...;Welcome+to+my+digital+world.;Building+the+future+with+code." />
+```text
+             ░▒▓████████████▓▒░
+          ░▒▓█              █▓▒░
+        ░▒▓█    ◉      ◉     █▓▒░
+       ░▒▓█         ▿         █▓▒░
+        ░▒▓█    ╲_______╱    █▓▒░
+          ░▒▓█            █▓▒░
+             ░▒▓████████▓▒░
+
+          SR.AV // THE OPERATOR
+          [ SYSTEM ACCESS GRANTED ]
+```
 
 </div>
 
-### `root@sr-av:~$ whoami`
+---
 
-```bash
+## `root@sr-av:~$ whoami`
+
+```yaml
 USER: Sr.Av
+ALIAS: The Operator
 SYSTEM: Cyberpunk Environment
 STATUS: ONLINE
+MODE: INVISIBLE
 FOCUS: Development & Technology
+PROTOCOL: PURPLE
 ACCESS: GRANTED
 ```
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROFILE-CYBERPUNK-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY-UNKNOWN-8A2BE2?style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -61,15 +86,8 @@ operator:
     - Cybersecurity
     - Game Development
   mission: "Turning ideas into reality."
+  motto: "The future is built, not predicted."
 ```
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/PROFILE-CYBERPUNK-8A2BE2?style=for-the-badge"/>
-
-</div>
-
 
 ---
 
@@ -79,7 +97,7 @@ operator:
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,github,git,vscode,linux,robloxstudio&theme=dark" />
 
-<br><br>
+<br/><br/>
 
 ![Python](https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)
@@ -88,6 +106,31 @@ operator:
 
 </div>
 
+---
+
+<div align="center">
+
+## ⌜ SYSTEM MALFUNCTION ⌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=1800&pause=600&color=BF5FFF&center=true&vCenter=true&width=650&lines=%5BWARNING%5D+System+instability...;%5BERROR+404%5D+Reality+not+found;%5BCRITICAL%5D+Data+corrupted...;%5BREBOOT%5D+Reconnecting+to+system...;%5BACCESS%5D+GRANTED." />
+
+</div>
+
+```text
+[21:04:01] SYSTEM INITIALIZED
+[21:04:03] WARNING: UNKNOWN PROCESS
+[21:04:05] ERROR: MEMORY CORRUPTED
+[21:04:07] TRACE: CONNECTION LOST
+[21:04:09] RECOVERY: IN PROGRESS
+[21:04:12] STATUS: ACCESS GRANTED
+```
+
+<div align="center">
+
+![SYSTEM](https://img.shields.io/badge/SYSTEM-UNSTABLE-8A2BE2?style=for-the-badge)
+![SECURITY](https://img.shields.io/badge/SECURITY-UNKNOWN-8A2BE2?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -95,12 +138,11 @@ operator:
 
 ## ⌜ SYSTEM STATISTICS ⌟
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=0d0618&title_color=B56AFF&text_color=D8C4F5&icon_color=9D4EDD&border_color=6A0DAD&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=0d0618&title_color=B56AFF&text_color=D8C4F5&icon_color=9D4EDD&border_color=6A0DAD&hide_border=false"/>
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=0d0618&title_color=B56AFF&text_color=D8C4F5&border_color=6A0DAD" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=0d0618&title_color=B56AFF&text_color=D8C4F5&border_color=6A0DAD"/>
 
 </div>
-
 
 ---
 
@@ -116,22 +158,6 @@ operator:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-
-### `SYSTEM STATUS: ONLINE`
-
-**SR.AV // DIGITAL FOOTPRINT**
-
-<sub>「 The future is built, not predicted. 」</sub>
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## ⌜ CLASSIFIED PROJECTS ⌟
 
 | PROJECT | STATUS |
@@ -140,11 +166,24 @@ operator:
 | `PROJECT_02` | COMING SOON |
 | `PROJECT_03` | UNKNOWN |
 
+<br/>
+
+![ACCESS](https://img.shields.io/badge/ACCESS-RESTRICTED-8A2BE2?style=for-the-badge&logo=protonvpn&logoColor=white)
+
 </div>
+
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ACCESS-RESTRICTED-8A2BE2?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+### `SYSTEM STATUS: ONLINE`
+
+**SR.AV // DIGITAL FOOTPRINT**
+
+<sub>「 The future is built, not predicted. 」</sub>
 
 </div>
-
