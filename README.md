@@ -29,14 +29,19 @@
 
 <div align="center">
 
-```text
-             ░▒▓████████████▓▒░
-          ░▒▓█              █▓▒░
-        ░▒▓█    ◉      ◉     █▓▒░
-       ░▒▓█         ▿         █▓▒░
-        ░▒▓█    ╲_______╱    █▓▒░
-          ░▒▓█            █▓▒░
-             ░▒▓████████▓▒░
+```text ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⡾⠿⢿⡀⠀⠀⠀⠀⣠⣶⣿⣷⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣦⣴⣿⡋⠀⠀⠈⢳⡄⠀⢠⣾⣿⠁⠈⣿⡆⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⠿⠛⠉⠉⠁⠀⠀⠀⠹⡄⣿⣿⣿⠀⠀⢹⡇⠀⠀⠀
+⠀⠀⠀⠀⠀⣠⣾⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⣰⣏⢻⣿⣿⡆⠀⠸⣿⠀⠀⠀
+⠀⠀⠀⢀⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣆⠹⣿⣷⠀⢘⣿⠀⠀⠀
+⠀⠀⢀⡾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⠋⠉⠛⠂⠹⠿⣲⣿⣿⣧⠀⠀
+⠀⢠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣿⣿⣿⣷⣾⣿⡇⢀⠀⣼⣿⣿⣿⣧⠀
+⠰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⡘⢿⣿⣿⣿⠀
+⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣷⡈⠿⢿⣿⡆
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠛⠁⢙⠛⣿⣿⣿⣿⡟⠀⡿⠀⠀⢀⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣶⣤⣉⣛⠻⠇⢠⣿⣾⣿⡄⢻⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣦⣤⣾⣿⣿⣿⣿⣆⠁
 
           SR.AV // THE OPERATOR
           [ SYSTEM ACCESS GRANTED ]
@@ -148,9 +153,27 @@ operator:
 
 <div align="center">
 
-## ⌜ ACTIVITY MONITOR ⌟
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d0618&color=B56AFF&line=9D4EDD&point=E0AAFF&area=true&hide_border=true&custom_title=SR.AV%20-%20CONTRIBUTION%20ACTIVITY" width="100%"/>
+<div align="center">
+
+## ⌜ SYSTEM STATISTICS ⌟
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=700&pause=300&color=00FF00&center=true&vCenter=true&width=300&lines=ERROR!;ERROR!;ERROR!" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&bg_color=0d0618&title_color=B56AFF&text_color=D8C4F5&icon_color=9D4EDD&border_color=6A0DAD&hide_border=false"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&bg_color=0d0618&title_color=B56AFF&text_color=D8C4F5&border_color=6A0DAD"/>
+
+</div>
+
+
+
+
+
+
+
+</div>
+
 
 </div>
 
