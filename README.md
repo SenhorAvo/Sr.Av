@@ -27,3 +27,33 @@ STATUS: ONLINE
 FOCUS: Development & Technology
 ACCESS: GRANTED
 ```
+
+
+---
+
+<div align="center">
+
+## ⌜ ABOUT THE OPERATOR ⌟
+
+</div>
+
+```yaml
+operator:
+  name: "Sr.Av"
+  status: "Invisible"
+  environment: "Cyberpunk"
+  interests:
+    - Programming
+    - Technology
+    - Cybersecurity
+    - Game Development
+  mission: "Turning ideas into reality."
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROFILE-CYBERPUNK-8A2BE2?style=for-the-badge"/>
+
+</div>
+
