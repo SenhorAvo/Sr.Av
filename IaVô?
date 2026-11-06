@@ -1,0 +1,59 @@
+
+import random
+import time
+
+# ==============================
+#          WRONG AI
+# ==============================
+
+nome = "WrongAI"
+versao = "1.0"
+
+respostas = [
+    "Tenho 100% de certeza que isso está errado.",
+    "A resposta é batata. Próxima pergunta.",
+    "Segundo meus cálculos imaginários, sim.",
+    "Meu cachorro sabe mais sobre isso.",
+    "A ciência ainda não descobriu, mas eu inventei.",
+    "Definitivamente sim. Ou talvez não.",
+    "Isso foi confirmado por 7 pombos cientistas.",
+    "A resposta é 42. Não pergunte por quê.",
+    "Não faço ideia, mas vou fingir que sei.",
+    "Obviamente a culpa é da gravidade."
+]
+
+print("=" * 40)
+print("             WRONG AI")
+print("       THE ART OF BEING WRONG")
+print("=" * 40)
+
+print()
+print(f"{nome} versão {versao}")
+print("Sistema iniciado com sucesso!")
+print("Digite 'sair' para encerrar.")
+print()
+
+while True:
+
+    pergunta = input("Você: ")
+
+    if pergunta.lower() == "sair":
+        print()
+        print("WrongAI: Finalmente! Vou desligar meus neurônios.")
+        break
+
+    if pergunta.strip() == "":
+        print("WrongAI: Você não escreveu nada. Genial.")
+        continue
+
+    print()
+    print("WrongAI está pensando...")
+    time.sleep(1)
+
+    resposta = random.choice(respostas)
+    confianca = random.randint(80, 100)
+
+    print()
+    print("WrongAI:", resposta)
+    print(f"Confiança: {confianca}%")
+    print()
